@@ -1,5 +1,5 @@
 # ublacklist-filters
-blocks github and stackoverflow scrapers, and other sites i find annoying
+blocks github and stackoverflow scrapers from search results + other sites i find annoying
 
 ## how to???
 1. [get ublacklist](https://iorate.github.io/ublacklist)
