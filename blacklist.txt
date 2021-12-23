@@ -1,5 +1,9 @@
+# github/stackoverflow scraper sites
 *://www.py4u.net/*
 *://www.edureka.co/*
 *://issueexplorer.com/*
 *://www.bountysource.com/*
 *://githubhelp.com/*
+
+# generated file extension garbage sites
+*://www.file-extension.info/*
