@@ -2,3 +2,4 @@
 *://www.edureka.co/*
 *://issueexplorer.com/*
 *://www.bountysource.com/*
+*://githubhelp.com/*
