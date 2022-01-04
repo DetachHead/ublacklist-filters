@@ -7,3 +7,6 @@
 
 # generated file extension garbage sites
 *://www.file-extension.info/*
+
+# generated comparison sites
+*://wikidiff.com/*
