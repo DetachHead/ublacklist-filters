@@ -5,6 +5,7 @@
 *://www.bountysource.com/*
 *://githubhelp.com/*
 *://tipsfordev.com/*
+*://newbedev.com/*
 
 # generated file extension garbage sites
 *://www.file-extension.info/*
