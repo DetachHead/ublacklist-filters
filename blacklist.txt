@@ -6,6 +6,7 @@
 *://githubhelp.com/*
 *://tipsfordev.com/*
 *://newbedev.com/*
+*://gitanswer.com/*
 
 # generated file extension garbage sites
 *://www.file-extension.info/*
