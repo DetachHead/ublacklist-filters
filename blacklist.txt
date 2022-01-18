@@ -16,3 +16,7 @@
 
 # fake transparent png google images moment
 *://www.pngaaa.com/*
+
+# misleading useless articles
+*://www.semrush.com/*
+*://www.jilaxzone.com/*
