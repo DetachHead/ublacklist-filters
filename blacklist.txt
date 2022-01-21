@@ -7,6 +7,7 @@
 *://tipsfordev.com/*
 *://newbedev.com/*
 *://gitanswer.com/*
+*://giters.com/*
 
 # generated file extension garbage sites
 *://www.file-extension.info/*
