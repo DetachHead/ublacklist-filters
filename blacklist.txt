@@ -21,3 +21,7 @@
 # misleading useless articles
 *://www.semrush.com/*
 *://www.jilaxzone.com/*
+
+# all i wanted was wordle answers
+*://www.thequint.com/*
+*://tech.hindustantimes.com/*
