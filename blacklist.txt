@@ -21,6 +21,7 @@
 # misleading useless articles
 *://www.semrush.com/*
 *://www.jilaxzone.com/*
+*://www.flutteroverflow.dev/*
 
 # all i wanted was wordle answers
 *://www.thequint.com/*
