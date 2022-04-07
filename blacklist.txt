@@ -11,6 +11,7 @@
 
 # generated file extension garbage sites
 *://www.file-extension.info/*
+*://filext.com/*
 
 # generated comparison sites
 *://wikidiff.com/*
