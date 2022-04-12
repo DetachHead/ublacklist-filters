@@ -8,6 +8,7 @@
 *://newbedev.com/*
 *://gitanswer.com/*
 *://giters.com/*
+*://localcoder.org/*
 
 # generated file extension garbage sites
 *://www.file-extension.info/*
