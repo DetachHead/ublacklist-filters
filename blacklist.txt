@@ -21,10 +21,11 @@
 # fake transparent png google images moment
 *://www.pngaaa.com/*
 
-# misleading useless articles
+# misleading/generated/spam articles
 *://www.semrush.com/*
 *://www.jilaxzone.com/*
 *://www.flutteroverflow.dev/*
+*://quick-adviser.com/*
 
 # all i wanted was wordle answers
 *://www.thequint.com/*
