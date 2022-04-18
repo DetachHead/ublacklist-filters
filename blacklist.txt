@@ -9,6 +9,7 @@
 *://gitanswer.com/*
 *://giters.com/*
 *://localcoder.org/*
+*://flutterhq.com/*
 
 # generated file extension garbage sites
 *://www.file-extension.info/*
