@@ -10,6 +10,7 @@
 *://giters.com/*
 *://localcoder.org/*
 *://flutterhq.com/*
+*://githubhot.com/*
 
 # generated file extension garbage sites
 *://www.file-extension.info/*
