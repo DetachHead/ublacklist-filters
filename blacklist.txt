@@ -29,6 +29,7 @@
 *://www.flutteroverflow.dev/*
 *://quick-adviser.com/*
 *://flutterrepos.com/*
+*://vlc.guru/*
 
 # all i wanted was wordle answers
 *://www.thequint.com/*
