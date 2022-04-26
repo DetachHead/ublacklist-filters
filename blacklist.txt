@@ -30,6 +30,7 @@
 *://quick-adviser.com/*
 *://flutterrepos.com/*
 *://vlc.guru/*
+*://linuxhint.com/*
 
 # all i wanted was wordle answers
 *://www.thequint.com/*
