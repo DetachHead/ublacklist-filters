@@ -19,6 +19,7 @@
 # generated comparison sites
 *://wikidiff.com/*
 *://www.libhunt.com/*
+*://askanydifference.com/*
 
 # fake transparent png google images moment
 *://www.pngaaa.com/*
