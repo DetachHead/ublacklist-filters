@@ -33,6 +33,7 @@
 *://vlc.guru/*
 *://linuxhint.com/*
 *://formatalley.com/*
+*://www.adoclib.com/*
 
 # all i wanted was wordle answers
 *://www.thequint.com/*
