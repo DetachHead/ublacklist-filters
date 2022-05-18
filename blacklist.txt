@@ -32,6 +32,7 @@
 *://flutterrepos.com/*
 *://vlc.guru/*
 *://linuxhint.com/*
+*://formatalley.com/*
 
 # all i wanted was wordle answers
 *://www.thequint.com/*
