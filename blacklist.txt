@@ -11,6 +11,9 @@
 *://localcoder.org/*
 *://flutterhq.com/*
 *://githubhot.com/*
+*://getridbug.com/*
+*://solveforum.com/*
+*://lifesaver.codes/*
 
 # generated file extension garbage sites
 *://www.file-extension.info/*
