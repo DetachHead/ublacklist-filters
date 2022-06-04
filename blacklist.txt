@@ -14,6 +14,7 @@
 *://getridbug.com/*
 *://solveforum.com/*
 *://lifesaver.codes/*
+*://discuss.dizzycoding.com/*
 
 # generated file extension garbage sites
 *://www.file-extension.info/*
