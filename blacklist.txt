@@ -15,6 +15,7 @@
 *://solveforum.com/*
 *://lifesaver.codes/*
 *://discuss.dizzycoding.com/*
+*://www.faqcode4u.com/*
 
 # generated file extension garbage sites
 *://www.file-extension.info/*
