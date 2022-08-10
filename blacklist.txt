@@ -17,6 +17,7 @@
 *://discuss.dizzycoding.com/*
 *://www.faqcode4u.com/*
 *://codehunter.cc/*
+*://issuehint.com/*
 
 # generated file extension garbage sites
 *://www.file-extension.info/*
