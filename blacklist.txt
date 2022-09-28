@@ -20,6 +20,7 @@
 *://issuehint.com/*
 *://fluttercorner.com/*
 *://www.codegrepper.com/*
+*://angularfixing.com/*
 
 # generated file extension garbage sites
 *://www.file-extension.info/*
