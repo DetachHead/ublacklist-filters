@@ -53,3 +53,7 @@
 # all i wanted was wordle answers
 *://www.thequint.com/*
 *://tech.hindustantimes.com/*
+
+# fake transparent pngs in image search
+*://toppng.com/*
+*://www.pngwing.com/*
