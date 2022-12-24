@@ -34,6 +34,7 @@
 *://www.libhunt.com/*
 *://askanydifference.com/*
 *://www.101convert.com/*
+*://www.online-convert.com/*
 
 # fake transparent png google images moment
 *://www.pngaaa.com/*
