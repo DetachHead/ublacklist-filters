@@ -28,6 +28,7 @@
 # generated file extension garbage sites
 *://www.file-extension.info/*
 *://filext.com/*
+*://fileproinfo.com/*
 
 # generated comparison sites
 *://wikidiff.com/*
