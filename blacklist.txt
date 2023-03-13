@@ -36,6 +36,7 @@
 *://askanydifference.com/*
 *://www.101convert.com/*
 *://www.online-convert.com/*
+*://stackshare.io/*
 
 # fake transparent png google images moment
 *://www.pngaaa.com/*
