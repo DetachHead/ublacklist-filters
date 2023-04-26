@@ -24,6 +24,7 @@
 *://www.angularfix.com/*
 *://www.javawenti.com/*
 *//9to5answer.com/*
+*://pullanswer.com/*
 
 # generated file extension garbage sites
 *://www.file-extension.info/*
