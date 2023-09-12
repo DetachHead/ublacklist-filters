@@ -30,6 +30,15 @@
 *://www.file-extension.info/*
 *://filext.com/*
 *://fileproinfo.com/*
+*://www.fileviewpro.com/*
+*://www.file-extension.org/*
+*://fileinfo.com/*
+*://www.openthefile.net/*
+*://extensionfile.net/*
+*://www.pcmatic.com/*
+*://www.filewikia.com/*
+*://www.solvusoft.com/*
+*://www.file-extensions.org/*
 
 # generated comparison sites
 *://wikidiff.com/*
